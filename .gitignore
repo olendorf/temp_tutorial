@@ -5,6 +5,7 @@
 # Session Data files
 .RData
 
+/foo/bar
 # Example code in package build process
 *-Ex.R
 
